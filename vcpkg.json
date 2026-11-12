@@ -11,6 +11,7 @@
     "boost-interprocess",
     "boost-json",
     "hunspell",
+    "libavif",
     "pkgconf",
     {
       "name": "qtbase",
